@@ -11,7 +11,7 @@ package proyectoprogra;
  *
  * @author cyber
  */
-public class NewMain {
+public class Principal {
 
     public static void main(String[] args) {
         

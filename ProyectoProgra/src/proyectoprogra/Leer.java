@@ -1,7 +1,5 @@
 package proyectoprogra;
 
-
-
 import java.io.*;
 
 public class Leer {
